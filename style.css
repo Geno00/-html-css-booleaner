@@ -1,9 +1,15 @@
 .logo{
     background-image: url(img/pattern.png);
     background-color: rgb(55, 131, 219);
-    background-size: auto;
+    background-size: 400px;
     
 }   
+
+.totolo{
+    height: 21px;
+    width: 21px;
+    
+}
 
 .color1{
     color: lightslategray;
@@ -16,4 +22,42 @@
 .testo1{
     font-size: x-large;
     
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+
+table{
+    font-size: x-large;
+}
+
+thead{
+    color: white;
+    background-color:rgb(55, 131, 219);
+}
+
+.azzurro{
+    background-color: aqua;
+}
+
+.monitor{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+}
+
+.graph{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 300px;
 }
