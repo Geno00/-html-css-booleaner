@@ -1,0 +1,15 @@
+.logo{
+    background-image: url(img/pattern.png);
+    background-color: rgb(55, 131, 219);
+    background-size: auto;
+    
+}   
+
+.color1{
+    color: lightslategray;
+}
+
+.color2{
+    color: rgb(55, 131, 219); 
+}
+
